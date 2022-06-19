@@ -1,1 +1,2 @@
-# music_search
+# Music/audio search
+A music/audio search system, which including 1) audio fingerprint extraction, which is binary landmark point, highly robust, informative and discriminative spectral points to various environments such as echo, noise, pitch editing, ..., 2) fast & efficient indexing to support large scale music retrieval (>10M of music) using an inverted document indexing in audio, 3) fast similarity score calculation. Accuracy >98% (10M music songs). Similar method is used for anti-spoofing in speaker verification.
